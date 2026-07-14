@@ -11,7 +11,7 @@ I conceived HerSpace from the ground up, the idea, the planning, and the full bu
 - Defining the core concept and mission
 - Planning the feature set and overall structure
 - Designing the visual identity, including the color scheme and layout
-- Building the core features: AI career guidance (C.A.R.E.), community workplace reviews, the safe-places map, and the mental health chatbot
+
 - Developing the frontend, including navigation, the Leaflet map, and the chat interface
 
 ## Quick Start
